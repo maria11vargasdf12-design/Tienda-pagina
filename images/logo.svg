@@ -1,0 +1,34 @@
+<svg width="100%" viewBox="0 0 690 230" role="img" xmlns="http://www.w3.org/2000/svg" style="">
+  <title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Logo Velour - Tienda de ropa</title>
+  <desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Logo con nombre Velour y subtítulo, colores azul grisáceo y crema</desc>
+
+  <defs>
+    
+  <mask id="imagine-text-gaps-4uj3t1" maskUnits="userSpaceOnUse"><rect x="0" y="0" width="690" height="230" fill="white"/><rect x="131.29063415527344" y="70" width="415.0187683105469" height="85.5999984741211" fill="black" rx="2"/><rect x="232.94375610351562" y="164" width="214.1125030517578" height="18.800000190734863" fill="black" rx="2"/></mask></defs>
+
+  <!-- Fondo -->
+  <rect width="680" height="220" rx="4" fill="#869dbb" style="fill:rgb(134, 157, 187);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Icono: percha minimalista -->
+  <g transform="translate(340, 42)" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+    <!-- arco superior de la percha -->
+    <path d="M0 0 C0 -14 12 -22 22 -16" fill="none" stroke="#f7f5e4" stroke-width="2" stroke-linecap="round" style="fill:none;stroke:rgb(247, 245, 228);color:rgb(255, 255, 255);stroke-width:2px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <!-- barra horizontal -->
+    <line x1="-38" y1="0" x2="38" y2="0" stroke="#f7f5e4" stroke-width="2" stroke-linecap="round" style="fill:rgb(0, 0, 0);stroke:rgb(247, 245, 228);color:rgb(255, 255, 255);stroke-width:2px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <!-- palo vertical -->
+    <line x1="0" y1="-16" x2="0" y2="0" stroke="#f7f5e4" stroke-width="2" stroke-linecap="round" style="fill:rgb(0, 0, 0);stroke:rgb(247, 245, 228);color:rgb(255, 255, 255);stroke-width:2px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <!-- patas izquierda y derecha -->
+    <path d="M-38 0 Q-44 10 -36 14" fill="none" stroke="#f7f5e4" stroke-width="2" stroke-linecap="round" style="fill:none;stroke:rgb(247, 245, 228);color:rgb(255, 255, 255);stroke-width:2px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <path d="M38 0 Q44 10 36 14" fill="none" stroke="#f7f5e4" stroke-width="2" stroke-linecap="round" style="fill:none;stroke:rgb(247, 245, 228);color:rgb(255, 255, 255);stroke-width:2px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  </g>
+
+  <!-- Nombre -->
+  <text x="340" y="138" text-anchor="middle" style="fill:rgb(247, 245, 228);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Georgia, serif;font-size:72px;font-weight:700;text-anchor:middle;dominant-baseline:auto">VELOUR</text>
+
+  <!-- Líneas decorativas -->
+  <line x1="160" y1="155" x2="285" y2="155" mask="url(#imagine-text-gaps-4uj3t1)" style="fill:rgb(0, 0, 0);stroke:rgb(200, 214, 232);color:rgb(255, 255, 255);stroke-width:0.8px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <line x1="395" y1="155" x2="520" y2="155" mask="url(#imagine-text-gaps-4uj3t1)" style="fill:rgb(0, 0, 0);stroke:rgb(200, 214, 232);color:rgb(255, 255, 255);stroke-width:0.8px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Subtítulo -->
+  <text x="340" y="178" text-anchor="middle" style="fill:rgb(200, 214, 232);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Georgia, serif;font-size:13px;font-weight:400;text-anchor:middle;dominant-baseline:auto">MODA &amp; ESTILO</text>
+</svg>

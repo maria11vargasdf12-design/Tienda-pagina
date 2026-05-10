@@ -1,4 +1,13 @@
 # Velour — Tienda de Ropa 
+##  Propósito de la página
+
+**Velour** es una tienda de ropa y accesorios en línea enfocada en bolsos de estilo denim. La página tiene como objetivo:
+
+- Mostrar productos disponibles con imagen, nombre y precio
+- Permitir al usuario agregar productos a un carrito de compras
+- Informar sobre los servicios de la tienda (envío gratis, pago con tarjeta, cobertura nacional)
+- Ofrecer un formulario de suscripción por correo electrónico
+- Presentar la identidad visual de la marca de forma clara y atractiva
 
 Tienda de ropa y accesorios desarrollada con HTML, CSS y JavaScript vanilla. Incluye carrito de compras funcional, diseño responsive y validación W3C.
 
